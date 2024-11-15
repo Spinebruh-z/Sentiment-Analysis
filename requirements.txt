@@ -1,5 +1,3 @@
 nltk 
 xgboost
 scikit-learn
-import nltk
-nltk.download('stopwords')
